@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://ankush.bio/assets/images/main_img_1.webp">
 <!--
 **ankush-bio/ankush-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
