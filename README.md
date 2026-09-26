@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 
   <!-- Font Awesome -->
   <link rel="stylesheet"
@@ -54,9 +50,9 @@
       transform: translateY(-2px);
     }
   </style>
-</head>
 
-<body>
+
+
 
   <div class="button-container">
 
@@ -72,5 +68,3 @@
 
   </div>
 
-</body>
-</html>
